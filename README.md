@@ -3,7 +3,7 @@
 # - Hello my name is Furkan Can Mera im 17 years old I'm a developer since 2018.
 
 > Uğraştıgım ve öğrenmekte olduğum diller
-> HTML, CSS, JS, PHP, JAVA, GO, C++, C#, Kotlin
+> HTML, CSS, JS, PHP, JAVA, GO, C++, C#, Kotlin, Python
 <!--
 **caniDev18/caniDev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
