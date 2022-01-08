@@ -1,7 +1,7 @@
 ### Merhabalar 👋 - Hello 👋👐
-# - My name is Furkan Can Mera im 17 years old I'm a Front-end developer since 2020.
+# - My name is Furkan Can Mera im 17 years old I'm a nodejs & back/front-end developer since 2020.
 
-> Langs
+# > Langs
 > HTML, CSS, JS, PHP, JAVA, GO, C++, C#, Kotlin, Python
 <!--
 **caniDev18/caniDev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
