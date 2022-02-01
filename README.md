@@ -1,5 +1,5 @@
 ### Merhabalar 👋 - Hello 👋👐
-# - My name is Furkan Can Mera im 18 years old I'm a nodejs & back/front-end developer since 2020.
+# - My name is Timmy I'm 18 years old I'm a nodejs & back/front-end developer since 2020.
 
 # > Langs
 > HTML, CSS, JS, PHP, JAVA, GO, C++, C#, Kotlin, Python
