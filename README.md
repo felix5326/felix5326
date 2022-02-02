@@ -2,7 +2,7 @@
 # - My name is Timmy I'm 18 years old I'm a nodejs & back/front-end developer since 2020.
 
 # > Langs
-> HTML, CSS, JS, PHP, JAVA, GO, C++, C#, Kotlin, Python
+> HTML, CSS, JS, PHP, JAVA, little C, litte Python
 <!--
 **caniDev18/caniDev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
