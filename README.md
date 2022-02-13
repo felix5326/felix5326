@@ -1,5 +1,5 @@
-### Merhabalar 👋 - Hello 👋👐
-# - My name is Timmy I'm 18 years old I'm a nodejs & back/front-end developer since 2020.
+### Hello Brothers 👋👐
+# - My name is Timmy I'm 18 years old and I'm a front/back-end developer since 2020.
 
 # > Langs
 > HTML, CSS, JS, PHP, JAVA, little C, litte Python
