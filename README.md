@@ -1,8 +1,17 @@
-### Hello Brothers 👋👐
-# - My name is Timmy I'm 18 years old and I'm a front/back-end developer since 2020.
+### Guten Morgen
+# - About Me
+> Name: Can Jurgen
+> Age: 18
+> I usually deal with front-end and back-end.
 
-# Langs
-> HTML, CSS, JS, PHP, JAVA, little C, litte Python
+# What I Have Learned
+
+>HTML
+>CSS
+>Javascript
+>PHP
+>JAVA 
+>Python
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=timmythesheep1)](https://github.com/timmythesheep1/)
 
