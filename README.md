@@ -6,12 +6,12 @@
 
 # What I Have Learned
 
->HTML
->CSS
->Javascript
->PHP
->JAVA 
->Python
+>HTML <br/>
+>CSS <br/>
+>Javascript <br/>
+>PHP <br/>
+>JAVA <br/>
+>Python <br/>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=felix5326)](https://github.com/felix5326/)
 
