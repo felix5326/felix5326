@@ -1,5 +1,5 @@
 ### Guten Morgen
-# - About Me
+# About Me
 > Name: Can Jurgen
 > Age: 18
 > I usually deal with front-end and back-end.
