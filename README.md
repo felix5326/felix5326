@@ -12,6 +12,7 @@
 >PHP <br/>
 >JAVA <br/>
 >Python <br/>
+> C <br/>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=felix5326)](https://github.com/felix5326/)
 
